@@ -1,0 +1,8 @@
+E:\C# & Delphi\MORSE\MORSE\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\MORSE\MORSE\obj\Debug\MORSE.Form1.resources
+E:\C# & Delphi\MORSE\MORSE\obj\Debug\MORSE.Properties.Resources.resources
+E:\C# & Delphi\MORSE\MORSE\obj\Debug\MORSE.csproj.GenerateResource.Cache
+E:\C# & Delphi\MORSE\MORSE\bin\Debug\MORSE.exe
+E:\C# & Delphi\MORSE\MORSE\bin\Debug\MORSE.pdb
+E:\C# & Delphi\MORSE\MORSE\obj\Debug\MORSE.exe
+E:\C# & Delphi\MORSE\MORSE\obj\Debug\MORSE.pdb
